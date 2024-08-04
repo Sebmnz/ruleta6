@@ -41,7 +41,7 @@ function spinWheel() {
         // Redirigir después de 15 segundos
         setTimeout(() => {
             clearConfetti();
-            window.location.href = 'https://tu-web-de-eleccion.com';
+            window.location.href = 'https://instagram.com/hola';
         }, 15000);
     }, 5000); // La ruleta gira durante 5 segundos
 
